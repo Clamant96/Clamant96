@@ -2,11 +2,13 @@
 
 ![alt text](img/banner.png)
 
-Olá, eu sou o Kevin estudante de tecnologia em formação. Estou tendo uma oportunidade incrível, de poder fazer parte do projeto da Generation Brasil. A cada dia que passa eu aprendo muito com eles e com meus colegas de turma que são pessoas incríveis. Gosto muito da área de tecnologia, voltada para o desenvolvimento front-end. Area do desenvolvimento em que eu mais me identifico. Venho sempre estudando e me aperfeiçoando na área, buscando sempre colocar tudo que eu aprendo em prático.
+Bom dia a todos, eu sou o Kevin e hoje eu falar um pouco sobre a minha história. Tive uma oportunidade incrível de poder fazer parte do programa da Generation Brasil. Aprendi muito com os instrutores e com meus colegas de turma. Gosto muito da área de tecnologia dessa forma sempre que posso estou colocando meus conhecimentos a prova no desenvolvimento de projetos pessoas. Na Generation tive a oportunidade de conhecer, rever e me aperfeiçoar em diversas tecnologias como o Java, Spring, MySQL e Angular com TypeScript. 
 
-Estou em transição de carreira, procurando uma oportunidade para ingressar em uma grande empresa, que possa me auxiliar em meu desenvolvimento e que me dê a oportunidades para poder contribuir com ela da melhor forma possível. Com minha dedicação, esforço, força de vontade e com minha persistência, que mesmo com todas as dificuldades de aprendizado da área, eu nunca deixei de estudar e me esforçar para sempre estar fazendo o melhor possível.  
+Estou em transição de carreira vindo da área de Telecom, de onde trago muito conhecimento de como se portar em um ambiente profissional e trabalho em equipe. Procuro uma oportunidade de ingressar em uma grande empresa, que possa auxiliar em meu desenvolvimento e que me dê a oportunidades de poder contribuir com ela da melhor forma possível. 
+E é com essa mentalidade de crescimento que eu desenvolvi um projeto na faculdade que se chama Help Connect. Meu objetivo e foco com ele, é proporcionar oportunidades. Quero com esse projeto realizar a inclusão de pequenas, medias empresas e até trabalhadores autônomos no meio digital. Dessa forma dando a oportunidade para que essas empresas possam crescer e se tornar competitivas no mercado, ganhando visibilidade e como consequência, consigam tornar seus sonhos realidades tornado suas empresas fortes e competitivas no mercado. 
 
-Hoje, eu tenho um projeto pessoal, ele se chama Help Connect. Meu objetivo e foco com ele, é proporcionar oportunidades. Quero com esse projeto realizar a inclusão de pequenas, medias empresas e até trabalhadores autônomos no meio digital. Dessa forma dando a oportunidade para que essas empresas possam crescer e se tornar competitivas no mercado, ganhando visibilidade e como consequência, consigam tornar seus sonhos realidades tornado suas empresas fortes e competitivas no mercado.
+Com isso, além de ajudar o próximo eu também consigo me desenvolver tanto profissionalmente como pessoalmente, colocando meus conhecimentos em projetos reais adquirindo experiência.
+Esse projeto é um framework, desenvolvido em PHP, HTML, CSS e MySQL. Ele está livre para acesso e download em meu GitHub para todos que necessitarem.
 
 ##### CONTATOS
 
