@@ -2,13 +2,19 @@
 
 ![alt text](img/banner.png)
 
-Bom dia a todos, eu sou o Kevin e hoje eu falar um pouco sobre a minha história. Tive uma oportunidade incrível de poder fazer parte do programa da Generation Brasil. Aprendi muito com os instrutores e com meus colegas de turma. Gosto muito da área de tecnologia dessa forma sempre que posso estou colocando meus conhecimentos a prova no desenvolvimento de projetos pessoas. Na Generation tive a oportunidade de conhecer, rever e me aperfeiçoar em diversas tecnologias como o Java, Spring, MySQL e Angular com TypeScript. 
+Olá, me chamo Kevin e tenho 24 anos. Tive uma passagem que me proporcionou muito conhecimento e desenvolvimento pessoal dentro da Generation. Pude aprender diversas tecnologias como: Java, Spring, MySQL e Angula com TypeScript e podendo aplicá-las em diversos projetos pessoais firmando esses conhecimentos.
 
-Estou em transição de carreira vindo da área de Telecom, de onde trago muito conhecimento de como se portar em um ambiente profissional e trabalho em equipe. Procuro uma oportunidade de ingressar em uma grande empresa, que possa auxiliar em meu desenvolvimento e que me dê a oportunidades de poder contribuir com ela da melhor forma possível. 
-E é com essa mentalidade de crescimento que eu desenvolvi um projeto na faculdade que se chama Help Connect. Meu objetivo e foco com ele, é proporcionar oportunidades. Quero com esse projeto realizar a inclusão de pequenas, medias empresas e até trabalhadores autônomos no meio digital. Dessa forma dando a oportunidade para que essas empresas possam crescer e se tornar competitivas no mercado, ganhando visibilidade e como consequência, consigam tornar seus sonhos realidades tornado suas empresas fortes e competitivas no mercado. 
+Ao longo da minha jornada sempre fui uma pessoa extremamente esforçada, me dedicando a tudo que me comprometi. Dessa forma consegui desenvolver uma habilidade de autodidata, procurando sempre estar aprendendo novas tecnologias e me desenvolvendo. 
 
-Com isso, além de ajudar o próximo eu também consigo me desenvolver tanto profissionalmente como pessoalmente, colocando meus conhecimentos em projetos reais adquirindo experiência.
-Esse projeto é um framework, desenvolvido em PHP, HTML, CSS e MySQL. Ele está livre para acesso e download em meu GitHub para todos que necessitarem.
+Profissionalmente atuei durante 2 anos e meio como analista de Telecom, construindo redes de dados e telefonias. Nessa minha passagem, eu pude desenvolver minhas habilidades de atenção ao detalhe e persistência na configuração de roteadores tendo o cuidado de realizar configurações corretamente para garantir o bom funcionamento da rede.
+
+Em 2015 iniciei meus estudos na área de tecnologia cursando Jogos Digitais, futuramente ingressei em técnico em Administração e atualmente cursando Análise e Desenvolvimento de Sistemas. Durante essa minha trajetória de estudos, eu pude adquirir muito conhecimento, dês da criação de cenários 3D, texturização, construção e composição de empresas e desenvolvimento de sistema WEB com as ferramentas HTML, CSS, JavaScript e PHP.
+
+Tenho um proposito pessoal, poder gerar oportunidades a partir daquilo que eu gosto e seu fazer. Utilizando de meu conhecimento para poder colaborar de alguma forma com o desenvolvimento de outras pessoas. 
+
+Sou extremamente focado em meus objetivos, batalhei e estudei muito para ter o conhecimento que tenho hoje. Acredito que conhecimento não e algo para ser guardado e sim compartilha com todos que estão a sua volta, quanto mais pessoas dominando o mesmo assunto, mais nos evoluímos como sociedade e isso e algo incrível e nisso que eu acredito.
+
+E por isso que hoje eu estou aqui, tentando uma oportunidade para ingressar em uma grande empresa, que possa me proporcionar muito conhecimento e desenvolvimento, me aperfeiçoando e dessa forma me auxiliando a poder estar sempre colaborando com outras pessoas disseminando o conhecimento.
 
 ##### CONTATOS
 
