@@ -2,10 +2,10 @@
 
 ![alt text](img/banner.png)
 
-Oi, me chamo Kevin. 
-Tenho uma visão de mundo, poder proporcionar oportunidades a partir daquilo que sei fazer, desenvolver soluções e transmitir meu conhecimento. Para que isso seja possível estou à procura de uma oportunidade onde consiga me aperfeiçoar, crescer e fazer a diferença. 
-Meu proposito me move a sempre estar seguindo em frente e colocando em prática aquilo em que acredito, tornar um mundo onde todos tenham oportunidades. Para que isso seja possível, desenvolvo aplicações WEB, compartilhando esses projetos com a ideia de poder ajudar de alguma forma alguém que esteja necessitando.
-Acredito que a cultura do compartilhamento é algo extraordinário, nos faz evoluir como sociedade e como pessoa por saber que de alguma forma seus esforços fizeram a diferença na vida de alguém.
+<p>Oi, me chamo Kevin.</p> 
+<p>Tenho uma visão de mundo, poder proporcionar oportunidades a partir daquilo que sei fazer, desenvolver soluções e transmitir meu conhecimento. Para que isso seja possível estou à procura de uma oportunidade onde consiga me aperfeiçoar, crescer e fazer a diferença. </p>
+<p>Meu proposito me move a sempre estar seguindo em frente e colocando em prática aquilo em que acredito, tornar um mundo onde todos tenham oportunidades. Para que isso seja possível, desenvolvo aplicações WEB, compartilhando esses projetos com a ideia de poder ajudar de alguma forma alguém que esteja necessitando.</p>
+<p>Acredito que a cultura do compartilhamento é algo extraordinário, nos faz evoluir como sociedade e como pessoa por saber que de alguma forma seus esforços fizeram a diferença na vida de alguém.</p>
 
 ##### CONTATOS
 
