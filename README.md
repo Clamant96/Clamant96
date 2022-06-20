@@ -10,9 +10,9 @@
 ##### CONTATOS
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-    <a style="width: 33.3333%; text-align: center;" href="https://www.linkedin.com/in/kevin-alec-neri-lazzarotto-72a781137/">Linkedin</a>
-    <a style="width: 33.3333%; text-align: center;" href="https://www.instagram.com/clmkevin/?hl=pt-br">Instagram</a>
-    <a style="width: 33.3333%; text-align: center;" href="https://helpconnect.com.br/framework">HelpConnect</a>
+    <a style="width: 33.3333%; text-align: center;" href="https://www.linkedin.com/in/kevin-neri/">Linkedin</a>
+    <a style="width: 33.3333%; text-align: center;" href="https://www.instagram.com/kevin.helpconnect/">Instagram</a>
+    <a style="width: 33.3333%; text-align: center;" href="https://www.youtube.com/channel/UCUWHuhvyOzq75xYIoP0e-nw">Help Connect</a>
 </div>
 
 ## TECNOLOGIAS
